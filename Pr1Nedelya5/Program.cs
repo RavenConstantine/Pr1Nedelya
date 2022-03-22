@@ -8,7 +8,7 @@ namespace Pr1Nedelya5
         {
             Creator Crea = new Creator();
             Crea.Create2(13, 50);
-            Crea.tAct = false;
+            //Crea.tAct = false;
             if (Crea.tAct)
             {
                 Crea.Tyman();
