@@ -1,0 +1,7 @@
+C:\Users\Raven\Desktop\GitHub\Pr1Nedelya\Pr1Nedelya1\bin\Debug\Pr1Nedelya1.exe.config
+C:\Users\Raven\Desktop\GitHub\Pr1Nedelya\Pr1Nedelya1\bin\Debug\Pr1Nedelya1.exe
+C:\Users\Raven\Desktop\GitHub\Pr1Nedelya\Pr1Nedelya1\bin\Debug\Pr1Nedelya1.pdb
+C:\Users\Raven\Desktop\GitHub\Pr1Nedelya\Pr1Nedelya1\obj\Debug\Pr1Nedelya1.csproj.AssemblyReference.cache
+C:\Users\Raven\Desktop\GitHub\Pr1Nedelya\Pr1Nedelya1\obj\Debug\Pr1Nedelya1.csproj.CoreCompileInputs.cache
+C:\Users\Raven\Desktop\GitHub\Pr1Nedelya\Pr1Nedelya1\obj\Debug\Pr1Nedelya1.exe
+C:\Users\Raven\Desktop\GitHub\Pr1Nedelya\Pr1Nedelya1\obj\Debug\Pr1Nedelya1.pdb

@@ -1,0 +1,14 @@
+C:\Users\Raven\Desktop\GitHub\Pr1Nedelya\Pr1Nedelya2\bin\Debug\netcoreapp3.1\Pr1Nedelya2.exe
+C:\Users\Raven\Desktop\GitHub\Pr1Nedelya\Pr1Nedelya2\bin\Debug\netcoreapp3.1\Pr1Nedelya2.deps.json
+C:\Users\Raven\Desktop\GitHub\Pr1Nedelya\Pr1Nedelya2\bin\Debug\netcoreapp3.1\Pr1Nedelya2.runtimeconfig.json
+C:\Users\Raven\Desktop\GitHub\Pr1Nedelya\Pr1Nedelya2\bin\Debug\netcoreapp3.1\Pr1Nedelya2.runtimeconfig.dev.json
+C:\Users\Raven\Desktop\GitHub\Pr1Nedelya\Pr1Nedelya2\bin\Debug\netcoreapp3.1\Pr1Nedelya2.dll
+C:\Users\Raven\Desktop\GitHub\Pr1Nedelya\Pr1Nedelya2\bin\Debug\netcoreapp3.1\Pr1Nedelya2.pdb
+C:\Users\Raven\Desktop\GitHub\Pr1Nedelya\Pr1Nedelya2\obj\Debug\netcoreapp3.1\Pr1Nedelya2.csproj.AssemblyReference.cache
+C:\Users\Raven\Desktop\GitHub\Pr1Nedelya\Pr1Nedelya2\obj\Debug\netcoreapp3.1\Pr1Nedelya2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raven\Desktop\GitHub\Pr1Nedelya\Pr1Nedelya2\obj\Debug\netcoreapp3.1\Pr1Nedelya2.AssemblyInfoInputs.cache
+C:\Users\Raven\Desktop\GitHub\Pr1Nedelya\Pr1Nedelya2\obj\Debug\netcoreapp3.1\Pr1Nedelya2.AssemblyInfo.cs
+C:\Users\Raven\Desktop\GitHub\Pr1Nedelya\Pr1Nedelya2\obj\Debug\netcoreapp3.1\Pr1Nedelya2.csproj.CoreCompileInputs.cache
+C:\Users\Raven\Desktop\GitHub\Pr1Nedelya\Pr1Nedelya2\obj\Debug\netcoreapp3.1\Pr1Nedelya2.dll
+C:\Users\Raven\Desktop\GitHub\Pr1Nedelya\Pr1Nedelya2\obj\Debug\netcoreapp3.1\Pr1Nedelya2.pdb
+C:\Users\Raven\Desktop\GitHub\Pr1Nedelya\Pr1Nedelya2\obj\Debug\netcoreapp3.1\Pr1Nedelya2.genruntimeconfig.cache
