@@ -80,9 +80,9 @@ namespace Pr1Nedelya5
             var rand = new Random();
             bool[,] open = new bool[x * 2 + 1, y * 2 + 1];
             bool fullO = false;
-            int value1 = rand.Next(0, x + 1);
+            int value1 = rand.Next(1, x + 1);
             value1 = value1 * 2 - 1;
-            int value2 = rand.Next(0, y + 1);
+            int value2 = rand.Next(1, y + 1);
             value2 = value2 * 2 - 1;
             while (fullO == false)
             {
@@ -409,17 +409,32 @@ namespace Pr1Nedelya5
                         break;
                     case "L":
                         string[] readMap = File.ReadAllLines(AppDomain.CurrentDomain.BaseDirectory + @"" + "map.txt");
+                        posV = new int[500, 2];
+                        v = 0;
                         for (int i = 0; i < readMap.Length; i++)
                         {
                             for (int j = 0; j < readMap[i].Length; j++)
                             {
                                 lab[i, j] = readMap[i][j];
+                                if(readMap[i][j] == '☻'){
+                                    posV[v, 0] = i;
+                                    posV[v, 1] = j;
+                                    v++;
+                                }
+                                if (readMap[i][j] == '☺')
+                                {
+                                    posP[0] = i;
+                                    posP[1] = j;
+                                }
+
+
                                 if (string.IsNullOrWhiteSpace(readMap[i]))
                                     break;
                             }
                             if (string.IsNullOrWhiteSpace(readMap[i]))
                                 break;
                         }
+
                         Vivod();
                         break;
                     case "E":
@@ -499,9 +514,6 @@ namespace Pr1Nedelya5
                                 going = true;
                             }
                             break;
-                    }
-                    if (going)
-                    {
                     }
                 }
             }
